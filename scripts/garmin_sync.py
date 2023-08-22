@@ -381,13 +381,6 @@ if __name__ == "__main__":
     )
     options = parser.parse_args()
 
-    
-        logger.debug("-------")
-        logger.debug(options)
-        logger.debug(options.email)
-        logger.debug(options.password)
-        logger.debug("-------")
-  
     email = options.email or config("sync", "garmin", "email")
     password = options.password or config("sync", "garmin", "password")
     auth_domain = (
