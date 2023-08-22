@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/ my-outdoor-workouts', // Change to `/ my-outdoor-workouts` when running on GitHub pages
+  pathPrefix: '/my-outdoor-workouts', // Change to `/ my-outdoor-workouts` when running on GitHub pages
   siteMetadata: {
     siteTitle: 'my-outdoor-workouts Map',
     siteUrl: 'https://my-outdoor-workouts.xyz',
