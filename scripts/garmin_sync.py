@@ -63,11 +63,6 @@ class Garmin:
         self.email = email
         self.password = password
 
-        logger.debug("-------")
-        logger.debug(email)
-        logger.debug(password)
-        logger.debug("-------")
-      
         self.req = httpx.AsyncClient(timeout=TIME_OUT)
         self.cf_req = cloudscraper.CloudScraper()
         self.URL_DICT = (
@@ -385,6 +380,14 @@ if __name__ == "__main__":
         help="to download personal documents or ebook",
     )
     options = parser.parse_args()
+
+    
+        logger.debug("-------")
+        logger.debug(options)
+        logger.debug(options.email)
+        logger.debug(options.password)
+        logger.debug("-------")
+  
     email = options.email or config("sync", "garmin", "email")
     password = options.password or config("sync", "garmin", "password")
     auth_domain = (
