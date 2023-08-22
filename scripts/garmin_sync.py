@@ -62,6 +62,12 @@ class Garmin:
         """
         self.email = email
         self.password = password
+
+        logger.debug("-------")
+        logger.debug(email)
+        logger.debug(password)
+        logger.debug("-------")
+      
         self.req = httpx.AsyncClient(timeout=TIME_OUT)
         self.cf_req = cloudscraper.CloudScraper()
         self.URL_DICT = (
