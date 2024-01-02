@@ -2743,5 +2743,20 @@
 "average_speed": 2.4876026471452874,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1704066037000,
+"name": "\u4e1c\u57ce\u533a \u8dd1\u6b65",
+"distance": 50185.13489646119,
+"moving_time": "5:13:02",
+"type": "Run",
+"start_date": "2023-12-31 23:40:37",
+"start_date_local": "2024-01-01 07:40:37",
+"location_country": "Sheraton Grand Beijing Dongcheng Hotel, 36, \u5b89\u5b9a\u95e8\u5916\u5927\u8857, \u548c\u5e73\u91cc\u8857\u9053, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100013, \u4e2d\u56fd",
+"summary_polyline": "yz|rFuumeUi@f@IfAeBZkA{FaAwdA]kH]kf@VmGm@wOPmASeOl@oI`AsExCsG|_@ep@tO{YxC{DlL{TbEoEb@}A|LySvBgCzBmApE_A`SMlcCHv`@d@vL[jI`@vUsAjTZnBj@`@_@~H\\x@WxGjAbDqAlC?jd@Lx\\z@nJ[`qC~AhGfBhUrX`@jAPnGrEhGr@n@vEBzBxC`GvOxBbPQlt@z@``@fBrj@vAzTjBxMTrMMpS`@r_AUjv@TzCUlPCjiBrCb[|Kfm@vCnSpPb|@C`IpAlQbEtGt@zDT`HEn`A_AdNyD`Q_ErI{D|FuHhHw@bBsUnOiBfCwLrKkInE}GpBgEPeNeMoD@q@XgBdGiCzDqDzBaE`@wv@rDaMpAiDG}CqBmEc@aB|AsB`@uAvAaCXmGYwk@`@iBi@OgEyEL_D~@}D|CeRJqU_@s@mDcEwCoCCsBbC{Af@g@lCk@ZawA`@qCoBs@FyA`BeGJkhAOwEHIr@gDu@oQQ_rAnE_b@lDyDuDgAcDkBaLqEmON}BeEsI}EuSaA_KmAm}@\\wFo@eXaBmKjAiDTsFSwz@NejAY}NRcRkAsk@U}d@g@uMZqFIaTw@_c@LuKc@gFPuOe@{`@|@}D{@qCa@wPL[vIa@rINp@JXhBq@rAcDNqAzBNvBeA\\Kz@}@j@AxAiFd@E~@h@T",
+"average_heartrate": 156.0,
+"average_speed": 2.671980348017314,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
