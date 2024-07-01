@@ -4963,5 +4963,35 @@
 "average_speed": 2.9687260156555615,
 "source": "Garmin Connect",
 "streak": 6
+},
+{
+"run_id": 1719739962000,
+"name": "\u671d\u9633\u533a \u8dd1\u6b65",
+"distance": 6595.90148750568,
+"moving_time": "0:45:27",
+"type": "Run",
+"start_date": "2024-06-30 09:32:42",
+"start_date_local": "2024-06-30 17:32:42",
+"location_country": "Red Cuppa, 08\u5e7f\u573a, \u9ea6\u5b50\u5e97\u8857\u9053, \u4e1c\u98ce\u4e61, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100125, \u4e2d\u56fd",
+"summary_polyline": "egyrFoa{eULeAh@JlAdEh@J`@m@fDs@lAZzEkAWuNyAmJbA_Hn@kA`Bw@h@Dd@rAlBb@zCM~B{@VaAYqAt@iCHqBj@iAIk@wAkBUqCq@u@gF[eAZWgH_B|@sGsAcDr@qLdGaArBYrFw@pB_@^cCk@{A~Ai@gAjAgCCo@yAgCkBLGcCi@wAL_CvAqB]mCiBN{BpBs@xBoHfD{B|BEf@bHhKGb@r@CtAfAdEdLp@jDxCtE~BK|CuAqC}KF{AtRdFl@lAJdC`GQdBfGTpNgCfBsD_@oEhBuA[c@{A",
+"average_heartrate": 126.0,
+"average_speed": 2.4187390859940154,
+"source": "Garmin Connect",
+"streak": 7
+},
+{
+"run_id": 1719782326000,
+"name": "\u901a\u5dde\u533a \u8dd1\u6b65",
+"distance": 13346.78810319794,
+"moving_time": "1:14:39",
+"type": "Run",
+"start_date": "2024-06-30 21:18:46",
+"start_date_local": "2024-07-01 05:18:46",
+"location_country": "\u5f20\u91c7\u8def, \u5f20\u6e7e\u6751, \u901a\u5dde\u533a, \u5317\u4eac\u5e02, 101121, \u4e2d\u56fd",
+"summary_polyline": "{airFmkfgUKlCfAfCMxA`F_DpDu@d@PhE`VTdXfNT^RKv|C`OJ`KpChHaBlFj@xCiGbBmBnEwBrJwB`CsB|@_CRqDWoCoAuCiFgHoB_J@qHvCsQ^{GIqG{@oGoBaHwB_E{BuBoFiCmCiDmAmEc@}HYYkf@JT|V]dVKdlBj@|@~MAjInC|I{AhFl@uFi@}H~AwJsCuPWQe_@sQMAyq@HgAZGB~D",
+"average_heartrate": 118.0,
+"average_speed": 2.979858920115637,
+"source": "Garmin Connect",
+"streak": 8
 }
 ]
