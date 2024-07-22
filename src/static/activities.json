@@ -5248,5 +5248,20 @@
 "average_speed": 2.5080388432007976,
 "source": "Garmin Connect",
 "streak": 5
+},
+{
+"run_id": 1721554763000,
+"name": "\u671d\u9633\u533a \u8dd1\u6b65",
+"distance": 6589.913337074246,
+"moving_time": "0:43:22",
+"type": "Run",
+"start_date": "2024-07-21 09:39:23",
+"start_date_local": "2024-07-21 17:39:23",
+"location_country": "Red Cuppa, 08\u5e7f\u573a, \u9ea6\u5b50\u5e97\u8857\u9053, \u4e1c\u98ce\u4e61, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100125, \u4e2d\u56fd",
+"summary_polyline": "ugyrFwa{eUr@wAfAtFb@LhDk@Xy@zAZdFeAGaMeB{Kv@gGfAaC~Am@f@nA|Aj@rEBzAq@r@y@UeBt@iDCqA|@aBMw@yA}AUiC{@i@u@]aF\\i@eHmBfA}A?q@m@yC[wExAiJbF{@zBExEeA~B{CQ}AnAg@_BlA{B]kBu@iAiBRUiDg@o@LgC|AeCWaC_CNeB|AYrBo@v@iJfEe@hBxEzI|ExE~EfPjC`EjCU~Bq@Re@mBkH[cEhRdFt@fAXzB~FWtB|KKdKcEtAsA]cDl@o@t@eBKa@y@",
+"average_heartrate": 135.0,
+"average_speed": 2.5326338728186957,
+"source": "Garmin Connect",
+"streak": 6
 }
 ]
