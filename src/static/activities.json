@@ -6823,5 +6823,20 @@
 "average_speed": 2.321592410361679,
 "source": "Garmin Connect",
 "streak": 8
+},
+{
+"run_id": 1732189416000,
+"name": "\u671d\u9633\u533a \u8dd1\u6b65",
+"distance": 3923.8534675342553,
+"moving_time": "0:24:36",
+"type": "Run",
+"start_date": "2024-11-21 11:43:36",
+"start_date_local": "2024-11-21 19:43:36",
+"location_country": "North Field, \u5317\u6e56\u6865, \u9ea6\u5b50\u5e97\u8857\u9053, \u8f9b\u5e84\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100125, \u4e2d\u56fd",
+"summary_polyline": "wvyrFet|eUOG`@cBmAyCsBD]a@i@eFjBsFaAmAsAXqAhAwA|CmHxDqBxB~DlHfF|EvF`QdDxEbGcBUaCaB}EAyA~B|LmC|@jCgAgBuGKmFrRrFt@`E\\HbFiA`@gEbBmEhB[d@pAlBb@nCGbCu@l@g@SmBt@eE",
+"average_heartrate": 147.0,
+"average_speed": 2.658437308627544,
+"source": "Garmin Connect",
+"streak": 8
 }
 ]
